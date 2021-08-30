@@ -1,0 +1,15 @@
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+D:\ИСУП-19-1м\4 Семестр\ХРАНЕНИЕ И ЗАЩИТА КОМПЬЮТЕРНОЙ ИНФ\Лабораторная 2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache

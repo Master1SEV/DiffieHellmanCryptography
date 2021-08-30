@@ -1,6 +1,8 @@
 # DiffieHellman
+<!--
 ## Генерация открытого ключа A 
-// Импорт пространства имён System.Security.Cryptography
+// Импорт пространства имён
+System.Security.Cryptography
 using System.Security.Cryptography;
 private void button1_Click(object sender, EventArgs e)
 {
@@ -164,7 +166,7 @@ private void button4_Click(object sender, EventArgs e)
                 MessageBox.Show(ex.Message);
             }   
 
-
+-->
 ## Образец пары сгенерированных открытых ключей.
 ![image](https://user-images.githubusercontent.com/20966308/131289773-15fba92d-c390-47e0-8ac7-ed76e8c758a7.png)
 
